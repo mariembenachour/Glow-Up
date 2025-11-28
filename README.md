@@ -1,10 +1,19 @@
 ✨ Glow Up App – L’application tout-en-un beauté & bien-être
+
 Glow Up App est une application mobile innovante qui combine mode, fitness et soins de la peau dans une seule plateforme personnalisée. Elle permet à chaque utilisateur de :
 
-👗 Créer son dressing virtuel et recevoir des looks proposés par des stylistes
+🧩 Fonctionnalités principales:
 
-🏋️‍♀️ Suivre un coaching sportif en ligne adapté à ses objectifs
+👗 Dressing virtuel : créer son dressing et recevoir des looks proposés par des stylistes
 
-🧴 Adopter une routine skincare selon son type de peau
+🏋️‍♀️ Coaching sportif en ligne : suivre des programmes adaptés à ses objectifs
 
-Développée avec Flutter, Spring et MySQL, l’app offre une expérience fluide, moderne et personnalisée
+🧴 Routine skincare : adopter des soins personnalisés selon son type de peau
+
+⚙️ Technologies utilisées:
+
+Flutter (front-end mobile)
+
+Spring (back-end)
+
+MySQL (base de données)
